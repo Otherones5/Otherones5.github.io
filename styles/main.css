@@ -11,14 +11,20 @@ h1 {
     display: flex;
     flex-direction: column;
     float: left;
-    width: 50%;
+    width: 20%;
+}
+
+.element {
+    margin: 5px;
 }
 
 .language {
+    width: 50%;
     float: left;
 }
 
 .experience {
+    width: 50%
     float: right;
 }
 

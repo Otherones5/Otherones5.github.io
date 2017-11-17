@@ -5,6 +5,11 @@ body {
 
 h1 {
     font-family: ovo, serif;
+    margin: 0;
+}
+
+h2 {
+    
 }
 
 #languages {
@@ -15,7 +20,12 @@ h1 {
 }
 
 .element {
-    margin: 5px;
+    margin-top: 20px;
+}
+
+#top {
+    margin-top: 0;
+    font-style: bold;
 }
 
 .language {

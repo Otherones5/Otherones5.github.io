@@ -19,13 +19,14 @@ h1 {
 }
 
 .language {
-    width: 50%;
     float: left;
+    width: 50%;
 }
 
 .experience {
-    width: 50%
     float: right;
+    text-align: right;
+    width: 50%
 }
 
 #experience {

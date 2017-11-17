@@ -1,0 +1,35 @@
+body {
+    font-family: source-sans-pro, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-family: ovo, serif;
+}
+
+#languages {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 50%;
+}
+
+.language {
+    float: left;
+}
+
+.experience {
+    float: right;
+}
+
+#experience {
+    float: right;
+    width: 50%;
+}
+
+.details {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 20%;
+}
